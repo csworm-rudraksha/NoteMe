@@ -9,4 +9,5 @@ Implemented dynamic functionalities such as adding, deleting, and updating notes
 
 ## 3) Prioritized Data Privacy and Accessibility:
 Incorporated local storage capabilities to prioritize user data privacy and offline accessibility, enabling users to access and manage their notes securely and efficiently without relying on external servers.
+# Link
 
